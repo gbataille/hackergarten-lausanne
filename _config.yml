@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Hackergarten Lausanne
 description: If you are a doer, that community is for you
+baseurl: /hackergarten-lausanne

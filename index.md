@@ -51,4 +51,4 @@ This can be anything: some code, some documentation, some neatly documented
 bug report, ...
 
 If you want to know what it can look like, read this [success
-story]({% link success-story.md %})
+story](/success-story.md)
