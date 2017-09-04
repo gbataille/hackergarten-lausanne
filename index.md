@@ -29,7 +29,9 @@ Let me take the description of the
 
 # When and where do we meet?
 
-We try to meet once a month. Check our [Meetup]() page for more information.
+We try to meet once a month. Check our
+[Meetup](https://www.meetup.com/Lausanne-Hackergarten/) page for more
+information.
 
 # How does it work in practice?
 
